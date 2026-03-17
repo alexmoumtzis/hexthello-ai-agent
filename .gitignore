@@ -1,0 +1,11 @@
+# Compiled object files
+*.o
+
+# Compiled binaries
+client
+server
+guiServer
+
+# Platform-specific binaries
+guiServer32
+guiServer64
