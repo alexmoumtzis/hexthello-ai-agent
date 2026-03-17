@@ -130,15 +130,7 @@ make clean      # Remove compiled files
 ./client
 ```
 
----
 
-## Author
-
-**Alexandros Moumtzis** — Technical University of Crete, 2021030111
-
-Game framework by **Ioannis Skoulakis**, Technical University of Crete
-
----
 
 ## License
 
