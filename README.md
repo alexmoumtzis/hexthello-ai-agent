@@ -1,8 +1,6 @@
 # Hexthello AI Agent
 
-An AI agent for **TUC-Hexthello**, a hexagonal variant of Othello/Reversi played on a hexagonal board. Built as a course project at the **Technical University of Crete (TUC)**.
-
-> **TUC-Hexthello v0.98b** — Game framework by Ioannis Skoulakis, TUC
+An AI agent for **TUC-Hexthello**, a hexagonal variant of Othello/Reversi played on a hexagonal board. 
 
 ---
 
